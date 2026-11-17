@@ -1,11 +1,3 @@
-<p align="center">
-<img src="screenshots/start.jpg" width="260" alt="Choose game mode">
-&nbsp;
-<img src="screenshots/lobby.jpg" width="260" alt="Lobby">
-&nbsp;
-<img src="screenshots/match-found.jpg" width="260" alt="Match found">
-</p>
-
 # Queue2Go
 
 **Control League of Legends from your phone – start a queue and accept matches from anywhere in your home.**
