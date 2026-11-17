@@ -1,34 +1,34 @@
 <p align="center">
-  <img src="screenshots/start.jpg" width="260" alt="Spielmodus wählen">
-  &nbsp;
-  <img src="screenshots/lobby.jpg" width="260" alt="Lobby">
-  &nbsp;
-  <img src="screenshots/match-found.jpg" width="260" alt="Match gefunden">
+<img src="screenshots/start.jpg" width="260" alt="Choose game mode">
+&nbsp;
+<img src="screenshots/lobby.jpg" width="260" alt="Lobby">
+&nbsp;
+<img src="screenshots/match-found.jpg" width="260" alt="Match found">
 </p>
 
 # Queue2Go
 
-**League of Legends vom Handy aus steuern – Queue starten, Match annehmen, von überall in der Wohnung.**
+**Control League of Legends from your phone – start a queue and accept matches from anywhere in your home.**
 
-Queue2Go läuft als kleines Programm auf deinem PC und macht dein Handy zur Fernbedienung für den League-Client. Kein Rennen mehr aus der Küche oder vom Sofa, wenn die Queue aufpoppt.
+Queue2Go runs as a small program on your PC and turns your phone into a remote control for the League client. No more running back from the kitchen or the couch when the queue pops.
 
-## Funktionen
+## Features
 
-- **Spielmodus wählen** – PvP (Ranked, Draft, Swiftplay), ARAM, Arena, Co-op vs. KI, Training und Custom Games. Die Lobby öffnet sich direkt auf dem PC.
-- **Lobby verwalten** – Lanes festlegen, Freunde einladen, Lobby-Chat, Suche starten oder Lobby verlassen.
-- **Match annehmen oder ablehnen** – mit Countdown, optional mit Ton und Vibration.
-- **Championauswahl** – Champions bannen und picken direkt vom Handy.
+- **Choose a game mode** – PvP (Ranked, Draft, Swiftplay), ARAM, Arena, Co-op vs. AI, Training and Custom Games. The lobby opens right on your PC.
+- **Manage your lobby** – set lanes, invite friends, lobby chat, start the search or leave the lobby.
+- **Accept or decline matches** – with a countdown, optional sound and vibration.
+- **Champion select** – ban and pick champions right from your phone.
 
 ## Download
 
-Die neueste Version gibt es unter **[Releases](../../releases/latest)** als `Queue2Go-vX.Y.Z.exe`.
+Get the latest version under **[Releases](../../releases/latest)** as `Queue2Go-vX.Y.Z.exe`.
 
-## So geht's
+## How it works
 
-1. `Queue2Go.exe` auf dem PC starten (League-Client muss laufen).
-2. Die Adresse, die Queue2Go anzeigt, im Handy-Browser öffnen – PC und Handy müssen im selben WLAN sein.
-3. Fertig: Oben steht „Connected to League“, und du kannst loslegen.
+1. Start `Queue2Go.exe` on your PC (the League client must be running).
+2. Open the address shown by Queue2Go in your phone's browser – your PC and phone must be on the same Wi-Fi.
+3. Done: "Connected to League" appears at the top, and you're ready to go.
 
 ---
 
-<sub>Inoffizielles Fan-Tool, nicht von Riot Games unterstützt oder gesponsert. League of Legends ist eine Marke von Riot Games, Inc.</sub>
+<sub>Unofficial fan tool, not endorsed or sponsored by Riot Games. League of Legends is a trademark of Riot Games, Inc.</sub>
